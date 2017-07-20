@@ -23,7 +23,7 @@ See document page for more details: [Parser Plugin Overview](/articles/parser-pl
 
 ### reserve_data
 
-Keep original key-value pair in parsed result.
+Keep original key-value pair in parsed result. Default is `false`.
 
     :::text
     <filter foo.bar>
